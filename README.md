@@ -15,7 +15,7 @@ A simple **FastAPI-based Weather API** that fetches real-time weather data using
 
 ---
 
-## ** How to Run Locally**
+## **How to Run Locally**
 1️⃣ **Clone the repository**:
    ```bash
    git clone https://github.com/rishi02102017/weather-api.git
