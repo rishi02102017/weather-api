@@ -1,6 +1,6 @@
 # **Weather API - FastAPI Project**
 
-## **🌦Overview**
+## **Overview**
 A simple **FastAPI-based Weather API** that fetches real-time weather data using the **OpenWeatherMap API** and supports **CRUD operations** using an SQL database. The API is **deployed on Render**.
 
 ---
@@ -50,7 +50,7 @@ A simple **FastAPI-based Weather API** that fetches real-time weather data using
 
 ---
 
-## ** CRUD Operations for Stored Weather Data**
+## **CRUD Operations for Stored Weather Data**
 The API stores weather queries in an SQL database and supports **CRUD operations**:
 
 - **Create:** Store a weather query.
@@ -60,10 +60,10 @@ The API stores weather queries in an SQL database and supports **CRUD operations
 
 ---
 
-## ** Deployment on Render**
+## **Deployment on Render**
 The API is deployed on **Render**, making it accessible online.
 
-### ** How to Deploy on Render**
+### **How to Deploy on Render**
 1. **Push all changes to GitHub**:
    ```bash
    git add .
@@ -79,7 +79,7 @@ The API is deployed on **Render**, making it accessible online.
 
 ---
 
-## ** Live API URL**
+## **Live API URL**
 You can access the deployed API at:
 
 ```
@@ -92,7 +92,7 @@ https://your-weather-api-onrender.com
 
 ---
 
-## ** Technologies Used**
+## **Technologies Used**
 - **FastAPI** - Backend framework
 - **Uvicorn** - ASGI server
 - **SQLAlchemy** - Database ORM
